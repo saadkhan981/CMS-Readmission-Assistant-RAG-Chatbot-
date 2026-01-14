@@ -5,3 +5,4 @@ openai
 faiss-cpu
 pdfplumber
 tiktoken
+load_dotenv
