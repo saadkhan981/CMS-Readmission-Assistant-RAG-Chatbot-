@@ -1,8 +1,9 @@
 streamlit
-python-dotenv
 langchain
-openai
-faiss-cpu
+langchain-openai
+langchain-community
+chromadb
 pdfplumber
+openai
+python-dotenv
 tiktoken
-load_dotenv
