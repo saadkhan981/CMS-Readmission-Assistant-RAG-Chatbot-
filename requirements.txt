@@ -7,3 +7,4 @@ pdfplumber
 openai
 python-dotenv
 tiktoken
+langchain_chroma
